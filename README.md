@@ -58,7 +58,7 @@ pip3 install requests
 1. 群晖系统需要在套件中心安装Python 3套件后，通过root用户登陆ssh安装pip3工具：
 ```
 wget https://bootstrap.pypa.io/get-pip.py #下载pip3安装脚本
-python get-pip.py #运行安装脚本
+python3 get-pip.py #运行安装脚本
 
 # 安装调用模块
 pip3 install requests
