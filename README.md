@@ -77,7 +77,10 @@ pip3 install requests
 ![qBittorrent Setting](images/qBittorrentSetting.png)
 
 ## 微信服务号推送效果
-<img width="300" src="images/MsgPush.jpg"/> <img width="300" src="images/Content.jpg"/>
+|  消息推送卡片   | 消息推送内容  |
+|  ----  | ----  |
+| <img width="300" src="images/MsgPush.jpg"/>  | <img width="300" src="images/Content.jpg"/> |
+ 
 
 ## 开源协议
 本项目使用[Apache License 2.0](https://github.com/Stalker-404/qBittorrent_Serverchan_Push/blob/main/LICENSE)开源许可证。
