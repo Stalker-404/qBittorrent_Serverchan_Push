@@ -9,10 +9,10 @@ qBittorrent_Serverchan_Push是一个基于**python3**编写的消息推送脚本
 
 ## 兼容性测试
 
-|  兼容性   | 系统  | 设备  |
-|  ----  | ----  |----  |
-| :white_check_mark:  | DSM 7.0 | 群晖DS119j |
-| :white_check_mark:  | DSM 6.2.3 | 群晖DS918|
+| 兼容性 | 系统 | 设备 | Python版本 |
+| ---- | ---- | ---- | ---- |
+| :white_check_mark: | DSM 7.0 | 群晖DS119j | 3.7.12 |
+| :white_check_mark: | DSM 6.2.3 | 群晖DS918 | 3.7.12 |
 
 ## 文件清单
 |  文件   | 说明  |
